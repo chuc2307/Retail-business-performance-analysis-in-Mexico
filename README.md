@@ -11,3 +11,5 @@ The dataset used in this project is obtained from Kaggle. It includes:
 - Stores: Contains detailed information about each store in the system.
 - Products: A list of all items available in the system.
 - Inventory: tracks the quantity of each product available at each store.
+## Tools
+Tableau, Excel
