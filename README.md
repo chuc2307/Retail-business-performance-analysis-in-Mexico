@@ -7,7 +7,7 @@ Key results achieved include:
 - Proposed data-driven strategies to optimize inventory, enhance store placement decisions, and improve overall operational efficiency.
 ## Dataset
 The dataset used in this project is obtained from Kaggle. It includes:
-- Sales: records transactional data of products sold across different stores
+- Sales: records transactional data of products sold across different stores.
 - Stores: Contains detailed information about each store in the system.
 - Products: A list of all items available in the system.
 - Inventory: tracks the quantity of each product available at each store.
@@ -32,7 +32,7 @@ The analysis revealed the following:
 - The Downtown area contributed nearly 50% of total revenue, significantly outperforming other zones.
 - Toys and Art & Crafts were the leading revenue categories, accounting for more than 50% of sales.
 - Inventory imbalances were found, with surplus stock in underperforming stores like Maven Toys Chihuahua.
-- Lego Bricks, while not the most sold product by volume, contributed the highest revenue due to higher unit price.
+- Lego Bricks, while not the most sold product by volume, contributed the highest revenue due to a higher unit price.
 ### Conclusion
 Summarizing the outcomes, the project:
 - Provided a clear view of store and product performance across Mexico.
