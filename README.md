@@ -1,7 +1,6 @@
 # Retail business performance analysis in Mexico
 ## Objectives and Results Description
 This project aims to analyze the business performance of a retail chain operating across Mexico from Q1 2022 to Q3 2023. It focuses on store-level performance, product category insights, geographic sales distribution, and inventory optimization.
-
 Key results achieved include:
 - Identified key revenue drivers by product category, store location, and customer segments.
 - Proposed data-driven strategies to optimize inventory, enhance store placement decisions, and improve overall operational efficiency.
@@ -25,16 +24,14 @@ The dataset was sourced from Kaggle and initially processed in Excel for consist
 - Connected multiple data tables using relationships to enable cross-dimensional analysis.
 ### Result Visualization
 - Built interactive dashboards in Tableau to visualize performance by product, region, and store.
-- Developed bar charts, line graphs, heat maps, and filters to highlight trends and compare store efficiency.
+- Developed charts, graphs, and other visual representations to illustrate findings.
 - Enabled dynamic slicing by time period, location, and product category for deeper user exploration.
 ### Results and Findings
 The analysis revealed the following:
-- The Downtown area generated over 50% of total revenue, outperforming other zones significantly.
+- The Downtown area contributed nearly 50% of total revenue, significantly outperforming other zones.
 - Toys and Art & Crafts were the leading revenue categories, accounting for more than 50% of sales.
-- Certain low-performing stores (e.g., in Airport zones) had high inventory levels but low turnover rates.
-- Inventory imbalances were found, with surplus stock in underperforming stores like Chihuahua.
+- Inventory imbalances were found, with surplus stock in underperforming stores like Maven Toys Chihuahua.
 - Lego Bricks, while not the most sold product by volume, contributed the highest revenue due to higher unit price.
-- Seasonal trends showed strong sales peaks in March and Q3 of 2023, signaling potential marketing windows.
 ### Conclusion
 Summarizing the outcomes, the project:
 - Provided a clear view of store and product performance across Mexico.
